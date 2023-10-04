@@ -3,6 +3,12 @@
 
 .. toctree::
    :hidden:
+   :glob:
 
    data/index
+
+.. toctree::
+   :hidden:
+   :glob:
+
    old-data/index

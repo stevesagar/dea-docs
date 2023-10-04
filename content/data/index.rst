@@ -10,7 +10,9 @@
 
 .. toctree::
    :caption: Sea, Ocean, and Coast
+   :maxdepth: 0
    :hidden:
    :glob:
 
    sea-ocean-and-coast/index
+   sea-ocean-and-coast/*/index
